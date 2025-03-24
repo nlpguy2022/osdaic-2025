@@ -28,9 +28,10 @@ Team Members:
    ```sh
    git clone https://github.com/nlpguy2022/osdaic2025.git
 2. Create Virtual Environment:
-  ```sh
-  python -m venv venv
+   ```sh
+   python -m venv venv
 3. Install Dependencies:
   ```sh
-  pip install -r requirements.txt
+   pip install -r requirements.txt
+   
 
