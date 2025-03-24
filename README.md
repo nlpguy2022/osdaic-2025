@@ -8,12 +8,12 @@
 Datasets and Additional Resources:
 Some files were too large to save onto Github
 As such, they have been saved in Google Drive with public access from the following links:
-* Sentinel 1 Data: [text](https://drive.google.com/file/d/1MhX8svE3fSYNXcDAiRY8DVYFNFG4-ke5/view?usp=share_link)
-* Sentinel 2 Data: [text](https://drive.google.com/file/d/1cKFX8SmXuudR3MZOMpXXhHp3HuDDq8QG/view?usp=share_link)
-* Landsat Data: [text](https://drive.google.com/file/d/1Y629OyVSqFUoMNdh2HH9SXbcvDSBnIFM/view?usp=sharing)
-* Enhanced NYC Building Footprints Data (External): [text](https://drive.google.com/file/d/1bkB7fh2nMnvjrGrYj61n513xRPdjsa_T/view?usp=sharing)
-* Validation Footprint Data for Submission: [text](https://drive.google.com/file/d/1YogJ4d2PjILroRKmfwT-UpP1u0Zuze_Q/view?usp=sharing)
-* Submission Model Pickle File: [text](https://drive.google.com/file/d/1YogJ4d2PjILroRKmfwT-UpP1u0Zuze_Q/view?usp=sharing)
+* Sentinel 1 Data: [link](https://drive.google.com/file/d/1MhX8svE3fSYNXcDAiRY8DVYFNFG4-ke5/view?usp=share_link)
+* Sentinel 2 Data: [link](https://drive.google.com/file/d/1cKFX8SmXuudR3MZOMpXXhHp3HuDDq8QG/view?usp=share_link)
+* Landsat Data: [link](https://drive.google.com/file/d/1Y629OyVSqFUoMNdh2HH9SXbcvDSBnIFM/view?usp=sharing)
+* Enhanced NYC Building Footprints Data (External): [link](https://drive.google.com/file/d/1bkB7fh2nMnvjrGrYj61n513xRPdjsa_T/view?usp=sharing)
+* Validation Footprint Data for Submission: [link](https://drive.google.com/file/d/1YogJ4d2PjILroRKmfwT-UpP1u0Zuze_Q/view?usp=sharing)
+* Submission Model Pickle File: [link](https://drive.google.com/file/d/1YogJ4d2PjILroRKmfwT-UpP1u0Zuze_Q/view?usp=sharing)
 
 Team Members:
 1. Ming Jun Lim ([@mingjun1120](https://github.com/mingjun1120)
