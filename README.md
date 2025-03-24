@@ -22,3 +22,15 @@ Team Members:
 3. Muhammad Haris Fahmi bin Faisal Hisham
 4. Muhammed Hazim bin Shahridan Faiez ([@nlpguy2022](https://github.com/nlpguy2022)
 )
+
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/nlpguy2022/osdaic2025.git
+2. Create Virtual Environment:
+  ```sh
+  python -m venv venv
+3. Install Dependencies:
+  ```sh
+  pip install -r requirements.txt
+
