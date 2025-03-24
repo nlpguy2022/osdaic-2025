@@ -16,9 +16,9 @@ As such, they have been saved in Google Drive with public access from the follow
 * Submission Model Pickle File: [text](https://drive.google.com/file/d/1YogJ4d2PjILroRKmfwT-UpP1u0Zuze_Q/view?usp=sharing)
 
 Team Members:
-1. Ming Jun Lim ([GitHub Profile](https://github.com/mingjun1120)
+1. Ming Jun Lim ([@mingjun1120](https://github.com/mingjun1120)
 )
 2. Brian Emmanuel Surin
 3. Muhammad Haris Fahmi bin Faisal Hisham
-4. Muhammed Hazim bin Shahridan Faiez ([GitHub Profile](https://github.com/nlpguy2022)
+4. Muhammed Hazim bin Shahridan Faiez ([@nlpguy2022](https://github.com/nlpguy2022)
 )
