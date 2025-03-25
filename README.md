@@ -1,4 +1,4 @@
-# EY Open Science Data and AI Challenge 2025
+# EY Open Science AI and Data Challenge 2025
 Challenge Link (EY-Internal): [link](https://challenge.ey.com/challenges/the-2025-ey-open-science-ai-and-data-challenge-cooling-urban-heat-islands-ey-participants)
 * The objective of this challenge was to help develop AI models to help combat Climate Change
 * In this year's challenge, we explored modelling and identifying Urban Heat Islands in New York City
