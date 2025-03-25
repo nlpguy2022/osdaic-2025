@@ -30,4 +30,4 @@ Team Members:
    python -m venv venv
 3. Install Dependencies:
   ```sh
-   pip install -r requirements.txt
+  pip install -r requirements.txt
