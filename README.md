@@ -17,7 +17,7 @@ As such, they have been saved in Google Drive with public access from the follow
 
 Team Members:
 1. Ming Jun Lim ([@mingjun1120](https://github.com/mingjun1120))
-2. Brian Emmanuel Surin
+2. Brian Emmanuel Surin ([@siteswarta123](https://github.com/siteswarta123))
 3. Muhammad Haris Fahmi bin Faisal Hisham ([@realharisf](https://github.com/realharisf))
 4. Muhammed Hazim bin Shahridan Faiez ([@nlpguy2022](https://github.com/nlpguy2022))
 
@@ -31,5 +31,3 @@ Team Members:
 3. Install Dependencies:
   ```sh
    pip install -r requirements.txt
-   
-
